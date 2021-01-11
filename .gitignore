@@ -1,0 +1,11 @@
+# exclude everything
+*
+
+# exception to the rule
+!*.m
+!*.mlapp
+!*.jpg
+!*.jpeg
+!*.png
+!.gitignore
+!.README.md
