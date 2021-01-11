@@ -1,2 +1,2 @@
-Segmentacja barwna
+# Segmentacja barwna
 Projekt z analizy obrazów
