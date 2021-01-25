@@ -1,5 +1,5 @@
 <deployment-project plugin="plugin.apptool" plugin-version="1.0">
-  <configuration build-checksum="3331240481" file="/home/natalia/Dokumenty/AO/projekt/segmentacja-barwna/K-means-clustering-color-segmentation.prj" location="/home/natalia/Dokumenty/AO/projekt/segmentacja-barwna" name="K-means-clustering-color-segmentation" target="target.mlapps" target-name="Package App">
+  <configuration build-checksum="1330914808" file="C:\Users\weron\Desktop\projekt_ao\segmentacja-barwna\K-means-clustering-color-segmentation.prj" location="C:\Users\weron\Desktop\projekt_ao\segmentacja-barwna" name="K-means-clustering-color-segmentation" target="target.mlapps" target-name="Package App">
     <param.appname>K-means-clustering-color-segmentation</param.appname>
     <param.authnamewatermark>W. Miszczak, N. Szczerba, W. Ciurej</param.authnamewatermark>
     <param.email />
@@ -8,7 +8,7 @@
     <param.icons />
     <param.summary />
     <param.description />
-    <param.screenshot>/tmp/tp7e177a82_a508_40f5_a4b9_c93fdda1c94c.png</param.screenshot>
+    <param.screenshot>C:\Users\weron\AppData\Local\Temp\tpf511d4ab_7f26_45ff_92c8_eba9a85b7fb2.png</param.screenshot>
     <param.version>1.0</param.version>
     <param.products.name />
     <param.products.id />
@@ -31,17 +31,17 @@
       <param.output />
     </unset>
     <fileset.main>
-      <file>${PROJECT_ROOT}/projekt.mlapp</file>
+      <file>${PROJECT_ROOT}\projekt.mlapp</file>
     </fileset.main>
     <fileset.depfun />
     <fileset.resources />
     <fileset.package />
     <build-deliverables>
-      <file location="/home/natalia/Dokumenty/AO/projekt" name="segmentacja-barwna" optional="false">/home/natalia/Dokumenty/AO/projekt/segmentacja-barwna</file>
+      <file location="C:\Users\weron\Desktop\projekt_ao" name="segmentacja-barwna" optional="false">C:\Users\weron\Desktop\projekt_ao\segmentacja-barwna</file>
     </build-deliverables>
     <workflow />
     <matlab>
-      <root>/home/natalia/.local/share/MATLAB/R2020b</root>
+      <root>C:\Program Files\MATLAB\R2020b</root>
       <toolboxes>
         <toolbox name="neuralnetwork" />
       </toolboxes>
@@ -52,18 +52,18 @@
       </toolbox>
     </matlab>
     <platform>
-      <unix>true</unix>
+      <unix>false</unix>
       <mac>false</mac>
-      <windows>false</windows>
+      <windows>true</windows>
       <win2k>false</win2k>
       <winxp>false</winxp>
       <vista>false</vista>
-      <linux>true</linux>
+      <linux>false</linux>
       <solaris>false</solaris>
-      <osver>5.8.0-40-generic</osver>
+      <osver>10.0</osver>
       <os32>false</os32>
       <os64>true</os64>
-      <arch>glnxa64</arch>
+      <arch>win64</arch>
       <matlab>true</matlab>
     </platform>
   </configuration>
