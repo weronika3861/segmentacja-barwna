@@ -2,6 +2,7 @@
 *
 
 # exception to the rule
+!*.pdf
 !*.m
 !*.mlapp
 !*.jpg
