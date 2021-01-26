@@ -1,5 +1,5 @@
 <deployment-project plugin="plugin.apptool" plugin-version="1.0">
-  <configuration build-checksum="4128930734" file="/home/natalia/Dokumenty/AO/projekt/segmentacja-barwna/Color Segmentation.prj" location="/home/natalia/Dokumenty/AO/projekt/segmentacja-barwna" name="Color Segmentation" target="target.mlapps" target-name="Package App">
+  <configuration build-checksum="3694493364" file="/home/natalia/Dokumenty/AO/projekt/segmentacja-barwna/Color Segmentation.prj" location="/home/natalia/Dokumenty/AO/projekt/segmentacja-barwna" name="Color Segmentation" target="target.mlapps" target-name="Package App">
     <param.appname>Color Segmentation</param.appname>
     <param.authnamewatermark>W. Miszczak, N. Szczerba, W. Ciurej</param.authnamewatermark>
     <param.email />
@@ -8,7 +8,7 @@
     <param.icons />
     <param.summary />
     <param.description />
-    <param.screenshot>/tmp/tp12b86f65_7d9e_434c_892d_7fe586fa3b75.png</param.screenshot>
+    <param.screenshot>/tmp/tp9189259d_def8_4c25_a56e_edaa969bdad4.png</param.screenshot>
     <param.version>1.0</param.version>
     <param.products.name />
     <param.products.id />
